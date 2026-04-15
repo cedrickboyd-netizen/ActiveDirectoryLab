@@ -3,7 +3,13 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-In this lab, i will show a practical tutorial for setting up a Home Lab environment to learn Active Directory and basic Windows networking principles. I will show the installtion and configuring of Oracle VirtualBox to host virtual machines.This will also show how to build a Domain Controller using Windows Server 2019.The lab covers setting up essential networking services, including: IP Addressing,Routing/NAT,DHCP. Manually assigning static IPs for internal network segments.Configuring the domain controller to act as a gateway for clients to reach the internet. Setting up a service to automatically assign IP addresses to client machines within the lab. Creating a PowerShell script to automate the creation of a thousand user accounts in Active Directory, providing a real-world look at administrative efficiency. The final stages demonstrate how to deploy a Windows 10 client VM, join it to the newly created domain, and verify the connection. I hope this doesn't overwhelm you or give you anxiety aboutcreatinng this lab for yourself.
+In this lab, I demonstrate how to set up a practical Home Lab environment for learning Active Directory and fundamental Windows networking principles. The tutorial walks through installing and configuring Oracle VirtualBox to host virtual machines and building a Domain Controller using Windows Server 2019.
+
+Key topics include configuring essential networking services such as IP Addressing, Routing/NAT, and DHCP. You’ll learn how to manually assign static IPs for internal network segments, configure the domain controller to act as a gateway for client internet access, and set up automated IP assignment for client machines.
+
+The lab also features a PowerShell automation script that creates a thousand user accounts in Active Directory — showcasing real‑world administrative efficiency. Finally, you’ll deploy a Windows 10 client VM, join it to the newly created domain, and verify connectivity.
+
+This guide is designed to be approachable and hands‑on, helping you build confidence in Active Directory and Windows networking without feeling overwhelmed.
 <br />
 
 
